@@ -1,5 +1,4 @@
 Makefile*
-libbotan*.so.*
 *.a
 *.so
 *.dylib
@@ -10,7 +9,6 @@ libbotan*.so.*
 *.manifest
 build
 build.log
-botan
 botan-test
 
 # Text file backups (e.g. gedit, joe)
